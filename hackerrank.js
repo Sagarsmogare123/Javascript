@@ -6,7 +6,6 @@
 // Input :- adbecf
 // Print abc def
 
-
 function processData(input) {
     //Enter your code here
     input.split("\n").reduce((target, item, index) => {
